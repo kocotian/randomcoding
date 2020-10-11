@@ -4,6 +4,9 @@
  *
  * see LICENSE file for details
  *
+ * go to github.com/kocotian/randomcoding
+ * for more random codes
+ *
  */
 
 #define _XOPEN_SOURCE 700
